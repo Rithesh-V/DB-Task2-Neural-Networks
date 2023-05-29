@@ -8,4 +8,5 @@ Things to specify:
 2. dataset is a randomnly generated array of numbers.
 3. 5 hidden layers are utilized
 4. output is displayed as epoch number and loss.
+5. Binary classification model is assumed, hence simple sigmoid function is used.
 
